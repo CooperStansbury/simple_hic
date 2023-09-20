@@ -1,0 +1,5 @@
+output_path: "/scratch/indikar_root/indikar1/cstansbu/direct_RNA/"
+ref_path: "/nfs/turbo/umms-indikar/shared/projects/directRNA/reference/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz" 
+annotations_path: "/nfs/turbo/umms-indikar/shared/projects/directRNA/reference/Homo_sapiens.GRCh38.107.gtf"
+fastq_path: "config/fastq.txt"
+threads: 35
