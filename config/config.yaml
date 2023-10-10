@@ -1,5 +1,11 @@
-output_path: "/scratch/indikar_root/indikar1/cstansbu/direct_RNA/"
-ref_path: "/nfs/turbo/umms-indikar/shared/projects/directRNA/reference/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz" 
-annotations_path: "/nfs/turbo/umms-indikar/shared/projects/directRNA/reference/Homo_sapiens.GRCh38.107.gtf"
+output_path: "/scratch/indikar_root/indikar1/cstansbu/2018_hic/"
+ref_path: "/nfs/turbo/umms-indikar/shared/projects/myod/data/resources/Homo_sapiens.GRCh38.dna_sm.toplevel.fa.gz" 
+annotations_path: "/nfs/turbo/umms-indikar/shared/projects/myod/data/resources/Homo_sapiens.GRCh38.110.gtf.gz"
+bins: 10000
+zoomify:
+    - 100000
+    - 1000000
+    - 10000000
+    - 25000000
 fastq_path: "config/fastq.txt"
 threads: 35
