@@ -7,5 +7,6 @@ zoomify:
     - 1000000
     - 10000000
     - 25000000
+slack: 300
 fastq_path: "config/fastq.txt"
 threads: 35
